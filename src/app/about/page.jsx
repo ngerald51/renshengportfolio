@@ -218,9 +218,7 @@ const AboutPage = () => {
                     Strategic Advisory: FINTECH
                   </div>
                   {/* JOB DESC */}
-                  <div className="p-3 text-sm italic">
-                  Review and select clients that match Bank's risk tolerance, values, and market fit, while staying abreast of industry trends.{" "}
-                  </div>
+                  <div className="p-3 text-sm italic">Review and select clients that match Banks risk tolerance, values, and market fit, while staying abreast of industry trends.</div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
                     2022 - Present
@@ -262,7 +260,7 @@ const AboutPage = () => {
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
                   Collaborate with partners and the MAS to set API standards for financial services and contribute to the SGFinDex for secure data sharing. Foster fintech innovation among polytechnic students, addressing real-world financial challenges. 
-                  {" "}
+                  
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
